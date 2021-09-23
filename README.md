@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Glyphee
 - 👀 I’m interested in video games and programming!
 - 🌱 I’m currently learning Simulation and Game Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on discord at Glyphee#7922
 
 <!---
 Glyphee/Glyphee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
