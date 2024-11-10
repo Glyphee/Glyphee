@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glyphee
 - 👀 I’m interested in video games and programming!
-- 🌱 I’m currently learning Simulation and Game Development.
+- 🌱 I’m currently learning Game Development.
 - 📫 Reach me on discord at Glyphee#7922
 
 <!---
